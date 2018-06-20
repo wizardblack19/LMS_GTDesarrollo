@@ -11,3 +11,5 @@ www/lib
 e2e/build
 /desktop/*
 !/desktop/assets/
+package-lock.json
+package.json
